@@ -2,7 +2,7 @@
 
 This is a python3 rendition of Conway's Game of Life (GOL) using the tkinter for the GUI.
 
-Time spent: over 50
+Time spent: over 20
 
 Dependencies: **Tkinter**
 
