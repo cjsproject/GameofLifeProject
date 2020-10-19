@@ -19,6 +19,5 @@ This is a python3 rendition of Conway's Game of Life (GOL) using the tkinter for
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/OtIcwtERza.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
