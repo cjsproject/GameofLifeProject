@@ -21,3 +21,5 @@ This is a python3 rendition of Conway's Game of Life (GOL) using the tkinter for
 
 
 https://recordit.co/wqdbtT2kE1
+
+![Alt Text](http://g.recordit.co/wqdbtT2kE1.gif)
